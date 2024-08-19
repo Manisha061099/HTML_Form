@@ -1,0 +1,36 @@
+div {
+
+    width: 800px;
+    margin: 0px auto;
+    padding: 2%;
+    background-color: rgb(174, 232, 255);
+}
+
+h1 {
+    text-align: center;
+}
+
+input {
+    width: 800px;
+    height: 30px;
+    border: none;
+    margin: 0px 0px 20px 5px;
+}
+
+input[placeholder] {
+    padding: 5px;
+
+}
+
+input[type=radio] {
+    height: 15px;
+    width: 15px;
+}
+textarea {
+    width: 800px;
+    height: 100px;
+}
+input[type=submit]{
+    background-color: rgb(107, 167, 107);
+    color: white;
+}
